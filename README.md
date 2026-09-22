@@ -1,4 +1,4 @@
-# Student Management System
+# Student Management System(Python + SQL)
 
 A simple Python application built with Tkinter and SQLite for managing student data.
 
